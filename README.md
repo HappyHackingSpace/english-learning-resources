@@ -1,5 +1,7 @@
 # English Learning Resources
 
+A curated collection of English learning resources, tools, and materials for language enthusiasts.
+
 ## 📚 Dictionaries & Translation Tools
 - [Tureng](https://tureng.com/tr/turkce-ingilizce) - Comprehensive Turkish-English Dictionary
 - [Dictionary.com](https://www.dictionary.com/) - English Dictionary with Definitions
