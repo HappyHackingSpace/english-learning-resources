@@ -37,19 +37,3 @@ A curated collection of English learning resources, tools, and materials for lan
 
 - [LinGo](https://www.reddit.com/r/languagelearning/comments/187kqcy/lingo_a_free_and_open_source_textbased_language/) – A terminal-based, open-source language learning tool that helps you learn languages while reading texts.
 - [Tatoeba](https://en.wikipedia.org/wiki/Tatoeba) – A large collection of example sentences with translations contributed by the community. ([Reddit][10], [Wikipedia][11])
-
----
-
-By adding these resources to your collection, you enrich it with high-quality, free, and open-source English learning materials. Each tool is tailored to different learning styles and needs.
-
-[1]: https://github.com/LibreTranslate/LibreTranslate?utm_source=chatgpt.com "LibreTranslate on GitHub"  
-[2]: https://freedict.org/?utm_source=chatgpt.com "FreeDict Official Site"  
-[3]: https://en.wikipedia.org/wiki/CMU_Pronouncing_Dictionary?utm_source=chatgpt.com "CMU Pronouncing Dictionary - Wikipedia"  
-[4]: https://forvo.com/?utm_source=chatgpt.com "Forvo - Pronunciation Dictionary"  
-[5]: https://github.com/huytd/speech?utm_source=chatgpt.com "GitHub - Speech Tool"  
-[6]: https://wikspeak.sourceforge.net/?utm_source=chatgpt.com "WikSpeak - Open Pronunciation Tool"  
-[7]: https://openstax.org/?utm_source=chatgpt.com "OpenStax - Free Textbooks"  
-[8]: https://www.gutenberg.org/?utm_source=chatgpt.com "Project Gutenberg - Free eBooks"  
-[9]: https://en.wikipedia.org/wiki/Wikisource?utm_source=chatgpt.com "Wikisource - Free Library"  
-[10]: https://www.reddit.com/r/languagelearning/comments/187kqcy/lingo_a_free_and_open_source_textbased_language/?utm_source=chatgpt.com "Reddit - LinGo Tool"  
-[11]: https://en.wikipedia.org/wiki/Tatoeba?utm_source=chatgpt.com "Tatoeba - Wikipedia"
