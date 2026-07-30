@@ -38,3 +38,4 @@ A curated collection of English learning resources, tools, and materials for lan
 
 - [LinGo](https://www.reddit.com/r/languagelearning/comments/187kqcy/lingo_a_free_and_open_source_textbased_language/) – A terminal-based, open-source language learning tool that helps you learn languages while reading texts.
 - [Tatoeba](https://en.wikipedia.org/wiki/Tatoeba) – A large collection of example sentences with translations contributed by the community.
+- [WordMeadow English themes](https://wordmeadow.app/learn/english/from/spanish/themes) – Visual English vocabulary theme cards grouped by everyday topics.
