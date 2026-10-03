@@ -20,6 +20,7 @@ A curated collection of English learning resources, tools, and materials for lan
 - [Speech (GitHub)](https://github.com/huytd/speech) – An online voice recorder that helps practice and improve pronunciation.
 - [WikSpeak](https://wikspeak.sourceforge.net/) – A tool for analyzing the correlation between pronunciation and spelling of English words.
 - [YouGlish](https://youglish.com/) – Learn pronunciation from real YouTube videos.
+- [WinkLingo](https://winklingo.com/en) – Learn real English from movie clips. Search a phrase and hear it in a real scene.
 
 ## 📖 Reading Materials by Topic
 
