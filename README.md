@@ -6,6 +6,7 @@ A curated collection of English learning resources, tools, and materials for lan
 
 - [Apertium](https://en.wikipedia.org/wiki/Apertium) – A rule-based, open-source machine translation platform supporting multiple language pairs.
 - [Dictionary.com](https://www.dictionary.com/) – English dictionary with definitions.
+- [Elseword](https://apps.apple.com/us/app/elseword-ai-dictionary/id6810573693) – An iPhone and iPad dictionary for looking up words across languages and following related expressions.
 - [FreeDict](https://freedict.org/) – A comprehensive source of truly free bilingual dictionaries in over 45 languages.
 - [Longman Dictionary](https://www.ldoceonline.com/) – A learner-friendly dictionary of contemporary English.
 - [TR-EX](https://tr-ex.me/) – Contextual sentence examples and usage suggestions.
